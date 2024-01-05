@@ -1,0 +1,73 @@
+.title {
+    font-size: 28px;
+    color:maroon;
+    background-color: rgb(193, 193, 182);
+
+
+}
+
+.explain {
+    background-color: rgb(139, 182, 196);
+    padding-bottom: 20px;
+    margin-right: 40px;
+
+
+
+}
+
+.disclaim {
+    background-color: rgb(225, 237, 147);
+
+}
+
+.parent {
+    background-color: rgb(108, 117, 190);
+    padding-bottom: 60px;
+
+
+}
+
+.child {
+    background-color: rgb(142, 190, 108);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.child2 {
+    background-color: rgb(193, 203, 173);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+
+.child3 {
+    background-color: rgb(203, 173, 196);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.child4 {
+    background-color: rgb(117, 93, 173);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
